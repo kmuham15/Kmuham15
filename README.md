@@ -56,7 +56,7 @@ I’m continuing to develop my expertise in **Azure security, SOC operations, th
 * Security Monitoring & Log Analysis
 
 > **Project Management mindset. Cybersecurity focus. Continuous learning.**
- ## Hi there 👋
+
 
 <!--
 **kmuham15/Kmuham15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
