@@ -55,7 +55,7 @@ I’m continuing to develop my expertise in **Azure security, SOC operations, th
 * Threat Hunting & Incident Response
 * Security Monitoring & Log Analysis
 
-> **Project Management mindset. Cybersecurity focus. Continuous learning.**
+> **Project Management mindset. Cybersecurity focus.
 
 
 <!--
